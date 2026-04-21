@@ -1,29 +1,32 @@
+````markdown
+```text
+┌──────────────────────────────────────────────────────────────┐
+│  BLACKSTAR NETWORK LTD :: PUBLIC SYSTEM REGISTRY             │
+│  ACCESS LEVEL: OPEN                                          │
+└──────────────────────────────────────────────────────────────┘
+
+[REGISTRY]
+Entity        :: Blackstar Network Ltd
+Profile       :: Official GitHub Presence
+Function      :: Publication & Disclosure Interface
+
+[OVERVIEW]
+This repository space serves as the official publication point
+for Blackstar Network Ltd transparency reports, issued quarterly.
+
+[DIRECTIVE]
+All publications are structured for clarity, consistency,
+and public accessibility.
+
+[ACCESS POINT]
+Website       :: https://blackstarnet.ltd
+
+[STATUS]
+Operational
+
+┌──────────────────────────────────────────────────────────────┐
+│  END REGISTRY                                                │
+└──────────────────────────────────────────────────────────────┘
+````
 ```
-██████╗ ██╗      █████╗  ██████╗██╗  ██╗███████╗████████╗ █████╗ ██████╗ 
-██╔══██╗██║     ██╔══██╗██╔════╝██║ ██╔╝██╔════╝╚══██╔══╝██╔══██╗██╔══██╗
-██████╔╝██║     ███████║██║     █████╔╝ ███████╗   ██║   ███████║██████╔╝
-██╔══██╗██║     ██╔══██║██║     ██╔═██╗ ╚════██║   ██║   ██╔══██║██╔══██╗
-██████╔╝███████╗██║  ██║╚██████╗██║  ██╗███████║   ██║   ██║  ██║██║  ██║
-╚═════╝ ╚══════╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝
-
-                 █ BSNK • Blackstar Network Ltd.
 ```
-
-## Overview
-
-This is the official github profile for **Blackstar Network Ltd** where all transparency reports will
-be posted on a quarterly basis.
-
----
-
-## Tech Stack
-
-```bash
-Frontend: HTML, CSS, JavaScript
-Frameworks: Next.js
-```
----
-
-## Contact
-
-Website: https://blackstarnet.ltd

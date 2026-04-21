@@ -11,11 +11,12 @@
 
 ## Bio
 
-This is the official github profile for **Blackstar Network Ltd** 
+This is the official github profile for **Blackstar Network Ltd** where all transparency reports will
+be posted on a quarterly basis.
 
 ---
 
-## 🧩 Technology Stack
+## Tech Stack
 
 ```bash
 Frontend: HTML, CSS, JavaScript

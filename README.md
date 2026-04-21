@@ -9,7 +9,7 @@
                  █ BSNK • Blackstar Network Ltd.
 ```
 
-## Bio
+## Overview
 
 This is the official github profile for **Blackstar Network Ltd** where all transparency reports will
 be posted on a quarterly basis.

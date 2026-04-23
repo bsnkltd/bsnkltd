@@ -13,10 +13,6 @@ Function      :: Publication & Disclosure Interface
 This repository space serves as the official publication point
 for Blackstar Network Ltd transparency reports, issued quarterly.
 
-[REPOSITORIES]
-Public :: Transparency reports and disclosures
-Private :: Internal development
-
 [DIRECTIVE]
 All publications are structured for clarity, consistency,
 and public accessibility.
